@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Damage Test</title>
+
+    <link rel="stylesheet" href="./style.css">
+
+</head>
+
+<body id="body"> 
+
+  
+
+  <h1 id="title">DAMAGE TEST</h1>
+
+  <div id="status">
+    <div id="names"></div>
+    <h1 id="textButton">ATTACK</h1>
+    <div id="hit"></div>
+    <div id="totalHealth"></div>
+    <div id="finish"></div>
+
+  </div>
+
+
+<div id="allGuardian">
+<div id="guardian">
+
+  <label for="nameG">
+    <input type="text" id="nameG" placeholder=" Set your name">
+  </label>
+
+
+  <label for="powerG">
+    <input type="number"  id="powerG" placeholder=" Set your power">
+  </label>
+
+  <input id="sendG" type="submit" value="Send">
+
+</div><!--guardian-->
+
+
+
+<div id="divGuardianImg">
+
+  <img id="guardianImg" src="./assets/GuardianModel.png"/>
+
+</div><!--divGuardian-->
+</div>
+
+
+
+<div id="allOrc">
+    
+<div id="orc">
+
+    <label for="nameO">
+        <input type="text" id="nameO" placeholder=" Orc's name">
+    </label>
+
+    <label for="healthO">
+        <input type="number" id="healthO" placeholder=" Orc's health">
+    </label>
+
+    <label for="defenseO">
+        <input type="number"  id="defenseO" placeholder=" Orc's defense">
+    </label>
+
+    
+
+    <div id="divShield">
+
+        <h3 id="shieldText"> Shield </h3>
+            <label for="shield"> 
+                <select id="shield" name="Shield">
+                    <option value="none"></option>
+                    <option value="yes">Yes</option>
+                    <option value="no">No</option>
+                </select>
+            </label>
+
+    <input id="sendO" type="submit" value="Send">
+
+    </div><!--divshield-->
+
+
+   
+
+
+</div><!--orc-->
+
+
+
+
+
+<div id="divOrcImg">
+
+  <img id="orcImg" src="./assets/OrcModel.png"/>
+
+</div><!--divOrc-->
+</div>
+    
+
+
+
+<script src="./dano.js"></script>
+
+</body>
+</html>
