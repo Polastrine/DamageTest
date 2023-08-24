@@ -1,4 +1,4 @@
-# DamageTest (Teste de Dano)
+# DamageTest 1.0 (Teste de Dano)
 [![NPM](https://img.shields.io/npm/l/react)]([https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE](https://github.com/Deekzzyy/DamageTest/blob/main/LICENSE)) 
 
 # About the project (Sobre o projeto)
