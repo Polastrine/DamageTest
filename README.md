@@ -1,3 +1,6 @@
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077b5&height=130&section=header"/>
+
 # DamageTest 1.0 (Teste de Dano)
 
 [![NPM](https://img.shields.io/npm/l/react)]([https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE](https://github.com/Deekzzyy/DamageTest/blob/main/LICENSE)) 
@@ -44,3 +47,5 @@ Having done this project helped me to improve my logic skills with condicionals,
 Diogo Polastrine Duarte Silva
 
 https://www.linkedin.com/in/DiogoPolastrine
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e8cee&height=200&section=footer"/>
