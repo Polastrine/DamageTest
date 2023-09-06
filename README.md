@@ -39,7 +39,7 @@ Having done this project helped me to improve my logic skills with condicionals,
 
 # Technologies used (Tecnologias usadas)
 ## Front end
-- HTML / CSS / JS / TypeScript
+- HTML / CSS / JS /
 
 
 # Autor
