@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077b5&height=130&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=130&section=header"/>
 
 # DamageTest 1.0 (Teste de Dano)
 
@@ -48,4 +48,4 @@ Diogo Polastrine Duarte Silva
 
 https://www.linkedin.com/in/DiogoPolastrine
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e8cee&height=200&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=200&section=footer"/>
